@@ -1,0 +1,9 @@
+.vscode/
+Objects/
+Listings/
+*.obj
+*.o
+*.axf
+*.hex
+*.map
+*.bak
